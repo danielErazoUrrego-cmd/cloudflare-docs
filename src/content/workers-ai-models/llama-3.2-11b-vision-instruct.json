@@ -32,7 +32,7 @@
         },
         {
             "property_id": "lora",
-            "value": "true"
+            "value": "false"
         },
         {
             "property_id": "terms",
